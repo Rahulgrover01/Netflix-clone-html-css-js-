@@ -64,7 +64,7 @@ border-radius: 4px;
 
 }
 .header-content{
-    border: 2px solid rgb(225, 127, 255);
+    /* border: 2px solid rgb(225, 127, 255); */
     position: absolute;
     /* right: 0; */
     left: 50%;
@@ -240,7 +240,7 @@ display: block;
         color: #777;
     }
     .footer h2{
-        border: 2px solid red;
+        /* border: 2px solid red; */
         font-size: 18px;
         font-weight: 400;
         margin-bottom: 30px;
@@ -250,11 +250,11 @@ display: block;
         /* display: flex;
         flex-wrap: wrap; */
         grid-template-columns: repeat(auto-fill, minmax(25%,1fr));
-        border: 2px solid rgb(0, 72, 255);
+        /* border: 2px solid rgb(0, 72, 255); */
     }
     .f-col{
         /* flex: 1 1 220px; */
-        border: 2px solid red;
+        /* border: 2px solid red; */
         padding: 10px 0;
 
     }
